@@ -1,0 +1,46 @@
+.main-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+  border: solid 5px #ffffff;
+  border-radius: 5px;
+}
+
+.button-container {
+  background-color: aquamarine;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 15px;
+
+  border: solid 2px black;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+.bulb-image {
+  height: 190px;
+  width: 150px;
+}
+
+.cat-image {
+  height: 250px;
+  width: 300px;
+  padding-right: 29px;
+}
+
+.button-image {
+  background-color: brown;
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+}
